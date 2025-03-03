@@ -1,0 +1,81 @@
+// Sample player data with images
+export const cricketPlayers = [
+  {
+    id: "1",
+    name: "Wriddhiman Saha",
+    role: "WK",
+    team: "Team A",
+    image: "/placeholder.svg?height=100&width=100",
+  },
+  {
+    id: "2",
+    name: "David Warner",
+    role: "Bat",
+    team: "Team B",
+    image: "/placeholder.svg?height=100&width=100",
+  },
+  {
+    id: "3",
+    name: "Prithvi Shaw",
+    role: "Bat",
+    team: "Team A",
+    image: "/placeholder.svg?height=100&width=100",
+  },
+  {
+    id: "4",
+    name: "Shubman Gill",
+    role: "Bat",
+    team: "Team B",
+    image: "/placeholder.svg?height=100&width=100",
+  },
+  {
+    id: "5",
+    name: "Hardik Pandya",
+    role: "Bat",
+    team: "Team A",
+    image: "/placeholder.svg?height=100&width=100",
+  },
+  {
+    id: "6",
+    name: "David Miller",
+    role: "Bat",
+    team: "Team B",
+    image: "/placeholder.svg?height=100&width=100",
+  },
+  {
+    id: "7",
+    name: "Mohammed Shami",
+    role: "Bowl",
+    team: "Team A",
+    image: "/placeholder.svg?height=100&width=100",
+  },
+  {
+    id: "8",
+    name: "Alzarri Joseph",
+    role: "Bowl",
+    team: "Team B",
+    image: "/placeholder.svg?height=100&width=100",
+  },
+  {
+    id: "9",
+    name: "Rashid Khan",
+    role: "Bowl",
+    team: "Team A",
+    image: "/placeholder.svg?height=100&width=100",
+  },
+  {
+    id: "10",
+    name: "Kuldeep Yadav",
+    role: "Bowl",
+    team: "Team B",
+    image: "/placeholder.svg?height=100&width=100",
+  },
+  {
+    id: "11",
+    name: "Khaleel Ahmed",
+    role: "Bowl",
+    team: "Team A",
+    image: "/placeholder.svg?height=100&width=100",
+  },
+]
+
